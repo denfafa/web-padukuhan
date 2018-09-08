@@ -30,46 +30,46 @@ body{behavior:url(csshover.htc); font-size:75%;}
 <div id="menuh-container">
   <div id="menuh">
     <ul>
-      <li><a href="http://sembuku.dadapayu.ooo" class="top_parent">HOME</a> </li>
+      <li><a href="http://padukuhan.sembuku.rf.gd" class="top_parent">HOME</a> </li>
     </ul>
     <ul>
       <li><a href="#" class="top_parent">PENDIDIKAN</a>
         <ul>
-          <li><a href="data_pendidikan1.php">Data 1</a></li>
-          <li><a href="data_pendidikan2.php">Data 2</a></li>
-          <li><a href="data_pendidikan3.php">Data 3</a></li>
-          <li><a href="data_pendidikan4.php">Data 4</a></li>
-          <li><a href="data_pendidikan5.php">Data 5</a></li>
-          <li><a href="data_pendidikan6.php">Data 6</a></li>
+          <li><a href="http://padukuhan.sembuku.rf.gd/data_pendidikan1.php">Data 1</a></li>
+          <li><a href="http://padukuhan.sembuku.rf.gd/data_pendidikan2.php">Data 2</a></li>
+          <li><a href="http://padukuhan.sembuku.rf.gd/data_pendidikan3.php">Data 3</a></li>
+          <li><a href="http://padukuhan.sembuku.rf.gd/data_pendidikan4.php">Data 4</a></li>
+          <li><a href="http://padukuhan.sembuku.rf.gd/data_pendidikan5.php">Data 5</a></li>
+          <li><a href="http://padukuhan.sembuku.rf.gd/data_pendidikan6.php">Data 6</a></li>
         </ul>
       </li>
     </ul>
     <ul>
       <li><a href="#" class="top_parent">EKONOMI</a>
         <ul>
-          <li><a href="data_ekonomi1.php">Data 1</a></li>
-          <li><a href="data_ekonomi2.php">Data 2</a></li>
+          <li><a href="http://padukuhan.sembuku.rf.gd/data_ekonomi1.php">Data 1</a></li>
+          <li><a href="http://padukuhan.sembuku.rf.gd/data_ekonomi2.php">Data 2</a></li>
         </ul>
       </li>
     </ul>
     <ul>
       <li><a href="#" class="top_parent">SOSIAL</a>
         <ul>
-          <li><a href="data_sosial1.php">Data 1</a></li>
-          <li><a href="data_sosial2.php">Data 2</a></li>
-          <li><a href="data_sosial3.php">Data 3</a></li>
-          <li><a href="data_sosial4.php">Data 4</a></li>
-          <li><a href="data_sosial5.php">Data 5</a></li>
-          <li><a href="data_sosial6.php">Data 6</a></li>
+          <li><a href="http://padukuhan.sembuku.rf.gd/data_sosial1.php">Data 1</a></li>
+          <li><a href="http://padukuhan.sembuku.rf.gd/data_sosial2.php">Data 2</a></li>
+          <li><a href="http://padukuhan.sembuku.rf.gd/data_sosial3.php">Data 3</a></li>
+          <li><a href="http://padukuhan.sembuku.rf.gd/data_sosial4.php">Data 4</a></li>
+          <li><a href="http://padukuhan.sembuku.rf.gd/data_sosial5.php">Data 5</a></li>
+          <li><a href="http://padukuhan.sembuku.rf.gd/data_sosial6.php">Data 6</a></li>
           </ul>
       </li>
     </ul>
     <ul>
       <li><a href="#" class="top_parent">KEPENDUDUKAN</a>
         <ul>
-          <li><a href="data_angka_rasio_ketergantungan.php">Data 1</a></li>
-          <li><a href="jumlah_penduduk_berdasar_Jenis_kelamin.php">Data 2</a></li>
-          <li><a href="jumlah_penduduk_berdasarkan_umur.php">Data 3</a></li>
+          <li><a href="http://padukuhan.sembuku.rf.gd/data_angka_rasio_ketergantungan.php">Data 1</a></li>
+          <li><a href="http://padukuhan.sembuku.rf.gd/jumlah_penduduk_berdasar_Jenis_kelamin.php">Data 2</a></li>
+          <li><a href="http://padukuhan.sembuku.rf.gd/jumlah_penduduk_berdasarkan_umur.php">Data 3</a></li>
 		</ul>
       </li>
     </ul>
@@ -97,13 +97,13 @@ body{behavior:url(csshover.htc); font-size:75%;}
       <li><a href="http://sembuku.rf.gd/index.php?/categories/8-SEJARAH">SEJARAH</a></li>
       <li><a href="http://sembuku.rf.gd/index.php?/categories/12-SOSIAL-BUDAYA">SOSIAL BUDAYA</a></li>
       <li><a href="http://sembuku.rf.gd/index.php?/categories/9-POTENSI-DESA">POTENSI DESA</a></li>
-      <li><a href="data_sarana_prasarana.php">SARANA IBADAH</a></li>
-      <li><a href="data_sebaran_ruang_public.php">RUANG PUBLIC</a></li>
+      <li><a href="http://padukuhan.sembuku.rf.gd/data_sarana_prasarana.php">SARANA IBADAH</a></li>
+      <li><a href="http://padukuhan.sembuku.rf.gd/data_sebaran_ruang_public.php">RUANG PUBLIC</a></li>
       <ul>
       <h3>LINK</h3>
     <ul>  
       <li><a href="http://sembuku.rf.gd/">Blog Padukuhan sembuku</a></li>
-	  <li><a href="">Web Padukuhan Sembuku</a></li>
+	  <li><a href="http://padukuhan.sembuku.rf.gd/">Web Padukuhan Sembuku</a></li>
 	  <li><a href="http://padukuhan-mojo.rf.gd/">Blog Padukuhan Mojo</a></li>
 	  <li><a href="http://mojo.rf.gd/">Web Padukuhan Mojo</a></li>
 	  <li><a href="http://sembuku.rf.gd/index.php?/admin">ADMIN LOGIN</a></li>
@@ -113,8 +113,17 @@ body{behavior:url(csshover.htc); font-size:75%;}
     </ul>
     <h3>Widget</h3>
     <ul>
-    <p><a href="https://www.worldflagcounter.com/details/e1A"><img src="https://www.worldflagcounter.com/e1A/" alt="Flag Counter"></a></p>  
-    <p><iframe src="https://www.zeitverschiebung.net/clock-widget-iframe-v2?language=en&size=small&timezone=Asia%2FJakarta" width="150%" height="150" frameborder="0" seamless></iframe><p>
+      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="195" height="139">
+<param name="movie" value="flashvortex.swf" />
+<param name="quality" value="best" />
+<param name="menu" value="true" />
+<param name="allowScriptAccess" value="sameDomain" />
+<embed src="flashvortex.swf" quality="best" menu="true" width="195" height="139" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" allowScriptAccess="sameDomain">
+</embed>
+</object>
+
+
+    
       
       </div>
   <div id="content">
@@ -139,6 +148,6 @@ Peningkatan Tenaga Terampil Anggota UPPKS Pelatihan ketrampilan teknis anggota k
     
   </div>
 </div>
-<div id="footer"> <a href="">homepage</a> | <a href="mailto:fafa.sosiatri@gmail.com">contact</a> | <a href="http://validator.w3.org/check?uri=referer">html</a> | <a href="http://jigsaw.w3.org/css-validator">css</a> | &copy; 2018 Padukuhan Sembuku | Design by <a href="http://radenfafa.blogs.or.id"> Raden FaFa</a> | This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</a> </div>
+<div id="footer"> <a href="http://padukuhan.sembuku.rf.gd/">homepage</a> | <a href="mailto:fafa.sosiatri@gmail.com">contact</a> | <a href="http://validator.w3.org/check?uri=referer">html</a> | <a href="http://jigsaw.w3.org/css-validator">css</a> | &copy; 2018 Padukuhan Sembuku | Design by <a href="http://radenfafa.blogs.or.id"> Raden FaFa</a> | This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</a> </div>
 </body>
 </html>
