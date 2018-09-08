@@ -9,8 +9,8 @@
 <meta name="revisit-after" content="1 days">
 <meta name="distribution" content="web">
 <meta http-equiv="refresh" content="30">
-<link href="style.css" rel="stylesheet" type="text/css" />
-<link href="menu.css" rel="stylesheet" type="text/css" />
+<link href="website.css" rel="stylesheet" type="text/css" />
+
 <!--[if lt IE 7]>
 <style type="text/css" media="screen">
 #menuh{float:none;}
